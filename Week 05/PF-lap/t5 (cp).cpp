@@ -19,7 +19,7 @@ if (minute>44)
 R1=minute-45;
 }
 minute=minute+15;
- if (minute>59
+ if (minute>59)
  {
  hour=hour+1;
  minute=0;

@@ -30,8 +30,8 @@ litres=(litres/volume)*100;
 cout<<"The Pool is "<<litres<<" % full"<<endl;
 pipe1=(pipe1/volume)*100;
 pipe2=(pipe2/volume)*100;
-cout<<"Pipe 1 :"<<pipe1<<endl;
-cout<<"Pipe 2 :"<<pipe2<<endl;
+cout<<"Pipe 1 contribution :"<<pipe1<<endl;
+cout<<"Pipe 2 contribution :"<<pipe2<<endl;
 	
 }
 
